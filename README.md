@@ -1,4 +1,4 @@
-![Air-gapped Ready](https://img.shields.io/badge/Air--gapped-Ready-brightgreen) ![No Subscription](https://img.shields.io/badge/No_RedHat_Subscription-blue) ![DoD Ready](https://img.shields.io/badge/DoD-SIPR-Automation-Ready-red)
+![Air-gapped Ready](https://img.shields.io/badge/Air--gapped-Ready-brightgreen) ![No Subscription](https://img.shields.io/badge/No_RedHat_Subscription-blue) ![DoD Ready](https://img.shields.io/badge/DoD-SIPR-Ready-red)
 
 # RHEL 9 Tiny Offline Mirror  
 ### ansible-navigator 24.2.0 + ansible-core + podman  
