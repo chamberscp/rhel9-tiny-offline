@@ -1,4 +1,6 @@
-![Air-gapped Ready](https://img.shields.io/badge/Air--gapped-Ready-brightgreen) ![No Subscription](https://img.shields.io/badge/No_RedHat_Subscription-blue) ![DoD Ready](https://img.shields.io/badge/DoD-SIPR-Ready-red)
+![Air-gapped Ready](https://img.shields.io/badge/Air--gapped-Ready-brightgreen) 
+![No Subscription](https://img.shields.io/badge/No_RedHat_Subscription-blue) 
+![SIPR Automation](https://img.shields.io/badge/SIPR-Automation-red)
 
 # RHEL 9 Tiny Offline Mirror  
 ### ansible-navigator 24.2.0 + ansible-core + podman  
@@ -14,7 +16,7 @@ Tested and working on RHEL 9.4 – 9.7 (November 2025)
 
 Works anywhere with zero network.
 
-##  Installation (copy-paste these exact lines)
+##Installation (copy-paste these exact lines)
 
 ```bash
 # 1. Copy this entire folder to the offline RHEL 9 machine
